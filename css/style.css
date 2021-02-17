@@ -1,0 +1,26 @@
+* {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+    color: rgb(240, 240, 240);
+    font-size: 18px;
+}
+
+button,
+button:hover {
+    background-color: #0b78e3;
+    padding: 15px;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.page {
+    margin: 0 auto;
+    max-width: 720px;
+}
+
+.doge {
+    border-radius: 50%;
+}
